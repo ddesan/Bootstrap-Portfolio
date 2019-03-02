@@ -2,8 +2,8 @@ h1{
     color: white;
     font-family: Georgia, Times, Times New Roman, serif;
     background-color: #4aaaa5;
-    padding-left: 200px;
-    height: 100%;
+    padding: 20px;
+    font-size: 18px;
 }
 h2{
     padding: 20px;
